@@ -7,7 +7,7 @@
 
 `pip3 install numpy`
 
-sudo apt-get install libatlas-base-dev
+`sudo apt-get install libatlas-base-dev`
 
 To find the port number of microphone
 https://makersportal.com/blog/2018/8/23/recording-audio-on-the-raspberry-pi-with-python-and-a-usb-microphone
