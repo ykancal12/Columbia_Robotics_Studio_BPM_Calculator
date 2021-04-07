@@ -1,7 +1,10 @@
 # Columbia_Robotics_Studio_BPM_Calculator
 pip3 install PyWavelets
+
 pip3 install scipy
+
 pip3 install numpy
+
 sudo apt-get install libatlas-base-dev
 
 To find the port number of microphone
