@@ -1,4 +1,6 @@
 # Columbia_Robotics_Studio_BPM_Calculator
+## Libraries that need to be installed:
+
 pip3 install PyWavelets
 
 pip3 install scipy
