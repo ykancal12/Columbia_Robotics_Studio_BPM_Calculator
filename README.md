@@ -7,6 +7,10 @@
 
 `pip3 install numpy`
 
+`pip install PyAudio`
+
+`ppip install aubio`
+
 `sudo apt-get install libatlas-base-dev`
 
 To find the port number of microphone
